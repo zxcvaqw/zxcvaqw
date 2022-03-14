@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-zxcvaqw/zxcvaqw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+zxcvaqw/zxcvaqw is a ✨ special ✨ repository because its `zxcvaqw` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
